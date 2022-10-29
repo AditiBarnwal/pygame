@@ -12,6 +12,8 @@ Pygame was developed by `Pete Shinners`. Till 2000, it was a community project, 
 ## Introduction
 
 ![rectblitflip](https://user-images.githubusercontent.com/90051406/198788806-7c651e3d-44cb-4c91-8d80-44a3284e5566.png)
+
+## Function Used
 ![func](https://user-images.githubusercontent.com/90051406/198802075-2755e530-809e-43bc-be90-578b79f6fb84.png)
 
 
